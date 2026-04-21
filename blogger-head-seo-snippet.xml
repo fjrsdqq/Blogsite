@@ -1,0 +1,46 @@
+<!-- Blogger Theme Head Snippet: paste inside <head> in Theme HTML -->
+<b:if cond='data:view.isPost'>
+  <b:if cond='data:blog.url == "https://YOUR_DOMAIN.com/"'>
+    <meta expr:content='data:blog.metaDescription' name='description'/>
+  </b:if>
+
+  <b:if cond='data:post.url == "https://YOUR_DOMAIN.com/2026/04/update-konflik-iran-israel-as-selat-hormuz-xauusd.html"'>
+    <link href='https://YOUR_DOMAIN.com/2026/04/update-konflik-iran-israel-as-selat-hormuz-xauusd.html' rel='canonical'/>
+    <meta content='Iran, Israel, Amerika Serikat, Selat Hormuz, XAUUSD, harga emas, minyak dunia, konflik Timur Tengah' name='news_keywords'/>
+    <meta content='article' property='og:type'/>
+    <meta content='Update Konflik Iran-Israel-AS, Selat Hormuz, dan Dampaknya terhadap XAUUSD' property='og:title'/>
+    <meta content='Update 21 April 2026 konflik Iran, Israel, dan AS, tensi Selat Hormuz, lonjakan harga minyak, serta dampaknya terhadap harga emas XAUUSD dan sentimen pasar global.' property='og:description'/>
+    <meta content='https://YOUR_DOMAIN.com/2026/04/update-konflik-iran-israel-as-selat-hormuz-xauusd.html' property='og:url'/>
+    <meta content='https://YOUR_DOMAIN.com/path/hero-geopolitics.png' property='og:image'/>
+    <meta content='id_ID' property='og:locale'/>
+    <meta content='summary_large_image' name='twitter:card'/>
+    <meta content='Update Konflik Iran-Israel-AS, Selat Hormuz, dan Dampaknya terhadap XAUUSD' name='twitter:title'/>
+    <meta content='Konflik Iran, Israel, dan AS memicu fokus pasar pada Selat Hormuz, harga minyak, dan pergerakan harga emas XAUUSD.' name='twitter:description'/>
+    <meta content='https://YOUR_DOMAIN.com/path/hero-geopolitics.png' name='twitter:image'/>
+    <script type='application/ld+json'>
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Update Konflik Iran-Israel-AS, Selat Hormuz, dan Dampaknya terhadap XAUUSD",
+        "description": "Update 21 April 2026 konflik Iran, Israel, dan AS, tensi Selat Hormuz, lonjakan harga minyak, serta dampaknya terhadap harga emas XAUUSD dan sentimen pasar global.",
+        "datePublished": "2026-04-21T09:00:00+07:00",
+        "dateModified": "2026-04-21T09:30:00+07:00",
+        "mainEntityOfPage": "https://YOUR_DOMAIN.com/2026/04/update-konflik-iran-israel-as-selat-hormuz-xauusd.html",
+        "image": ["https://YOUR_DOMAIN.com/path/hero-geopolitics.png"],
+        "author": {
+          "@type": "Person",
+          "name": "Tim Redaksi GeoFinance"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GeoFinance News",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://YOUR_DOMAIN.com/path/logo.png"
+          }
+        },
+        "inLanguage": "id-ID"
+      }
+    </script>
+  </b:if>
+</b:if>
